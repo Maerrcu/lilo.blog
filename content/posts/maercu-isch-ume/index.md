@@ -1,5 +1,5 @@
 +++
-title = "Maercu isch ume "
+title = "Money Boy eine Legende "
 date = "2023-02-23"
 draft = false
 pinned = false
