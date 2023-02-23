@@ -4,6 +4,7 @@ date = "2023-02-23"
 draft = false
 pinned = false
 tags = []
+image = "geoff-brooks-0oppbzvd-zy-unsplash-1-1-.jpg"
 description = ""
 +++
 Hittas woll'n wie ich sein, Bitches woll'n den Dick rein
