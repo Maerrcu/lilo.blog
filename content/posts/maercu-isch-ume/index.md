@@ -7,6 +7,20 @@ tags = []
 image = "geoff-brooks-0oppbzvd-zy-unsplash-1-1-.jpg"
 description = ""
 +++
+<!--StartFragment-->
+
+{{<lead>}}
+
+Money Boy: Rapper, Philantroph und Stilikone. 
+
+{{</lead>}}
+
+
+
+<!--EndFragment-->
+
+
+
 Hittas woll'n wie ich sein, Bitches woll'n den Dick rein
 Ich hab' eine Villa, komm und wirf mal einen Blick rein (Boy)
 Und du siehst teure Möbel und so (Yes)
