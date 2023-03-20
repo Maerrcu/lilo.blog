@@ -1,7 +1,7 @@
 +++
 title = "Marco und Basil Interview"
 date = "2023-03-20"
-draft = true
+draft = false
 pinned = false
 +++
 # "Wir konnten in 10 Tagen nur 3-mal essen"
