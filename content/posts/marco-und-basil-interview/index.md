@@ -1,7 +1,7 @@
 +++
 title = "\"Wir konnten in 10 Tagen nur 3-mal essen\""
 date = "2023-03-20"
-draft = true
+draft = false
 pinned = false
 +++
 # Das Leben auf der Flucht
