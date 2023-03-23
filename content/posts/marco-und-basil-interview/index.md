@@ -18,7 +18,19 @@ Ein Interview von **Marco Probst** und **Basil Bernard.**
 
 **Morsal:** Der Weg dauerte einen Monat und wir sind mit allem Möglichen in die Schweiz gekommen.  Wir waren 10 Tage unterwegs von Afghanistan bis in den Iran, mit dem Auto, aber manchmal mussten wir auch zu Fuss über die Grenzen Laufen.
 
+<!--StartFragment-->
+
+{{<box>}}
+
 Morsal ist am 1. Oktober 2015 mit ihrer Familie in die Schweiz gekommen. Ihre grosse Leidenschaft neben ihrem Beruf ist das Fussball spielen.  Ihr Traum ist es die Höhere Fachschule zu besuchen um etwas nützliches für die Gesellschaft zu sein.
+
+{{</box>}}
+
+
+
+<!--EndFragment-->
+
+
 
 **Kannst du diesen Weg etwas ausführlicher beschreiben, was genau hast du auf deiner Flucht erlebt?**
 
