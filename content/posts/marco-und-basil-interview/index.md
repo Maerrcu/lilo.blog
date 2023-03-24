@@ -10,9 +10,7 @@ pinned = false
 
 Ein Interview von **Marco Probst** und **Basil Bernard.**
 
-![](morsal-bild-resized.png)
-
-*Morsal(22) flüchtete 2015 in die Schweiz.*
+![*Morsal(22) flüchtete 2015 in die Schweiz.*](morsal-bild-resized.png)
 
 **Wie bist du in die Schweiz gekommen?**
 
@@ -26,11 +24,7 @@ Morsal ist am 1. Oktober 2015 mit ihrer Familie in die Schweiz gekommen. Ihre gr
 
 {{</box>}}
 
-
-
 <!--EndFragment-->
-
-
 
 **Kannst du diesen Weg etwas ausführlicher beschreiben, was genau hast du auf deiner Flucht erlebt?**
 
