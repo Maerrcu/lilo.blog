@@ -4,22 +4,22 @@ date = "2023-05-05"
 draft = false
 pinned = false
 +++
-<!--\\\[if !mso]>
+<!--\\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -641,9 +641,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -672,7 +672,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -694,7 +694,7 @@ Jährlich fliehen über 3000 Menschen aus Afghanistan in die Schweiz, so viele w
 
 Eine Reportage von **Marco Probst und Basil Bernard**, Bern
 
-<!--\\\[if gte vml 1]><v:shapetype
+<!--\\\\[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
  <v:stroke joinstyle="miter"/>
@@ -717,8 +717,6 @@ Eine Reportage von **Marco Probst und Basil Bernard**, Bern
 </v:shapetype><v:shape id="Grafik_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75"
  style='width:300.5pt;height:560.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/MARCOP~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
-  o:title="Ein Bild, das Kleidung, Fußgängerübergang, Schuhwerk, Person enthält"/>
-</v:shape><!\\\[endif]--><!--\\\[if !vml]-->![Ein Bild, das Kleidung, Fußgängerübergang, Schuhwerk, Person enthält.
 
 ![Morsal(22) ist seit 8 Jahren in der Schweiz.](morsal-bild-resized-1-.png)
 
@@ -732,8 +730,6 @@ Afghanistan war lange Zeit das Land mit den meisten migrierenden Menschen der We
 
 Als sie 2015 in die Schweiz gekommen ist, war das ein Schritt ins ungewisse. Dennoch ist sie keineswegs eingeschüchtert, ganz im Gegenteil, wir treffen auf eine Junge, Selbstbewusste Frau. Sie wohnt allein in einem Studio und arbeitet hart an ihrer Ausbildung zur Fachangestellten Gesundheit. "Es ist unglaublich schön, FaGe ist mein Traumberuf. Ich mache es sehr gerne, wirklich sehr gerne", sagt sie strahlend. In ihrer Freizeit spielt sie gerne Fußball beim FC Wyler. Wir sind beeindruckt von ihrer Liebe zu ihrem Beruf, das macht uns Hoffnung für unsere eigene Zukunft.
 
-
-
 **«Es war unglaublich schmerzhaft, aber nicht schmerzhafter als das, was ich in Afghanistan erlebt habe»**
 
 Zurückblickend erinnert sie sich an die knappen Vorräte, die sie und ihre Familie auf diesem Weg mit sich trugen: Nur dreimal haben sie in diesen zehn Tagen etwas zu essen bekommen, meist nur Brot mit Joghurt. Die Strapazen der Reise haben ihr alles abverlangt: "Ich bin barfuß gelaufen, weil meine Schuhe kaputt waren", erzählt sie. Der steinige Boden der Berge war gnadenlos und hat ihre Füße blutig gerieben. Aber der Schmerz war für sie nichts im Vergleich zu dem, was sie in Afghanistan erlebt hatte. Abe
@@ -744,13 +740,9 @@ Die Situation eskalierte, als diese Männer sie sogar berührten. Morsal erinner
 
 Aber das war noch lange nicht das Ende ihrer Reise. In der folgenden Nacht wagten sie es, illegal mit einem Gummiboot von der Türkei nach Griechenland zu übersetzen. Stundenlang waren sie auf hoher See den unberechenbaren Wellen und Strömungen ausgesetzt. Doch endlich erreichten sie die Küste Griechenlands.
 
-
-
 **«Es war die schlimmste Zeit meines Lebens»**
 
 Dankbar erinnert sie sich an ihren Onkel, der ihnen Geld aus Afghanistan geschickt hatte. Dieses Geld ermöglichte es ihnen, über Grenzen in die Schweiz zu reisen, wo sie schließlich einen sicheren Hafen fanden. Heute, Jahre später, ist sie froh, in der Schweiz eine neue Heimat gefunden zu haben, aber die Erinnerungen an ihre Flucht werden sie ihr ganzes Leben lang begleiten. "Es war die schlimmste Zeit meines Lebens", sagt sie. "Aber ich bin froh, dass wir es geschafft haben."
-
-
 
 **«Wenn sich die schwierige Situation verbessert, werde ich gehen»**
 
