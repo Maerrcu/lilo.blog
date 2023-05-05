@@ -732,6 +732,8 @@ Afghanistan war lange Zeit das Land mit den meisten migrierenden Menschen der We
 
 Als sie 2015 in die Schweiz gekommen ist, war das ein Schritt ins ungewisse. Dennoch ist sie keineswegs eingeschüchtert, ganz im Gegenteil, wir treffen auf eine Junge, Selbstbewusste Frau. Sie wohnt allein in einem Studio und arbeitet hart an ihrer Ausbildung zur Fachangestellten Gesundheit. "Es ist unglaublich schön, FaGe ist mein Traumberuf. Ich mache es sehr gerne, wirklich sehr gerne", sagt sie strahlend. In ihrer Freizeit spielt sie gerne Fußball beim FC Wyler. Wir sind beeindruckt von ihrer Liebe zu ihrem Beruf, das macht uns Hoffnung für unsere eigene Zukunft.
 
+
+
 **«Es war unglaublich schmerzhaft, aber nicht schmerzhafter als das, was ich in Afghanistan erlebt habe»**
 
 Zurückblickend erinnert sie sich an die knappen Vorräte, die sie und ihre Familie auf diesem Weg mit sich trugen: Nur dreimal haben sie in diesen zehn Tagen etwas zu essen bekommen, meist nur Brot mit Joghurt. Die Strapazen der Reise haben ihr alles abverlangt: "Ich bin barfuß gelaufen, weil meine Schuhe kaputt waren", erzählt sie. Der steinige Boden der Berge war gnadenlos und hat ihre Füße blutig gerieben. Aber der Schmerz war für sie nichts im Vergleich zu dem, was sie in Afghanistan erlebt hatte. Abe
@@ -742,9 +744,13 @@ Die Situation eskalierte, als diese Männer sie sogar berührten. Morsal erinner
 
 Aber das war noch lange nicht das Ende ihrer Reise. In der folgenden Nacht wagten sie es, illegal mit einem Gummiboot von der Türkei nach Griechenland zu übersetzen. Stundenlang waren sie auf hoher See den unberechenbaren Wellen und Strömungen ausgesetzt. Doch endlich erreichten sie die Küste Griechenlands.
 
+
+
 **«Es war die schlimmste Zeit meines Lebens»**
 
 Dankbar erinnert sie sich an ihren Onkel, der ihnen Geld aus Afghanistan geschickt hatte. Dieses Geld ermöglichte es ihnen, über Grenzen in die Schweiz zu reisen, wo sie schließlich einen sicheren Hafen fanden. Heute, Jahre später, ist sie froh, in der Schweiz eine neue Heimat gefunden zu haben, aber die Erinnerungen an ihre Flucht werden sie ihr ganzes Leben lang begleiten. "Es war die schlimmste Zeit meines Lebens", sagt sie. "Aber ich bin froh, dass wir es geschafft haben."
+
+
 
 **«Wenn sich die schwierige Situation verbessert, werde ich gehen»**
 
