@@ -694,29 +694,7 @@ Jährlich fliehen über 3000 Menschen aus Afghanistan in die Schweiz, so viele w
 
 Eine Reportage von **Marco Probst und Basil Bernard**, Bern
 
-<!--\\\\[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Grafik_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75"
- style='width:300.5pt;height:560.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/MARCOP~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
+
 
 ![Morsal(22) ist seit 8 Jahren in der Schweiz.](morsal-bild-resized-1-.png)
 
