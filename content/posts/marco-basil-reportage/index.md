@@ -4,22 +4,22 @@ date = "2023-05-05"
 draft = false
 pinned = false
 +++
-<!--\\[if !mso]>
+<!--\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -641,9 +641,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -672,7 +672,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -690,13 +690,11 @@ Jährlich fliehen über 3000 Menschen aus Afghanistan in die Schweiz, so viele w
 
 {{</lead>}}
 
-
-
 <!--EndFragment-->
 
 Eine Reportage von **Marco Probst und Basil Bernard**, Bern
 
-<!--\\[if gte vml 1]><v:shapetype
+<!--\\\[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
  <v:stroke joinstyle="miter"/>
@@ -717,25 +715,20 @@ Eine Reportage von **Marco Probst und Basil Bernard**, Bern
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Grafik_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75"
- alt="Ein Bild, das Kleidung, Fußgängerübergang, Schuhwerk, Person enthält.&#10;&#10;Automatisch generierte Beschreibung"
  style='width:300.5pt;height:560.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/MARCOP~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
   o:title="Ein Bild, das Kleidung, Fußgängerübergang, Schuhwerk, Person enthält"/>
-</v:shape><!\\[endif]--><!--\\[if !vml]-->![Ein Bild, das Kleidung, Fußgängerübergang, Schuhwerk, Person enthält.
+</v:shape><!\\\[endif]--><!--\\\[if !vml]-->![Ein Bild, das Kleidung, Fußgängerübergang, Schuhwerk, Person enthält.
 
 ![Morsal(22) ist seit 8 Jahren in der Schweiz.](morsal-bild-resized-1-.png)
 
 Die Flucht aus Afghanistan ist für viele Menschen eine Odyssee, eine lebensgefährliche Reise durch Länder und Grenzen, die oft Tage oder Wochen dauert. Auch für die junge Afghanin, Morsal, war es die einzige Möglichkeit, ihr Leben zu retten. Morsals Familie verlor auf der Flucht alles, was sie besaß, und musste sich schließlich allein und ohne Besitz in der Schweiz zurechtfinden. Als wir sie treffen, passt sie gerade auf ihren kleinen Bruder auf, sie entschuldigt sich vor dem Gespräch für das Geschrei im Hintergrund. Alleine mit ihr Sprechen können wir nicht, aufgrund ihrer Religion ist es ihr Wunsch, dass eine andere Frau anwesend ist.
-
-
 
 {{<box>}}
 
 Afghanistan war lange Zeit das Land mit den meisten migrierenden Menschen der Welt, bevor es 2014 von Syrien abgelöst wurde. Afghanische Migranten wurden oft in anderen Ländern ausgebeutet und als billige Arbeitskräfte eingesetzt. Konflikte und die Übernahme von Teilen des Landes durch die Taliban seit 1994 zwangen viele Menschen zur Flucht. Die US-Luftwaffe begann 2001, nachdem die Taliban die Auslieferung von Osama bin Laden verweigert hatten, Stellungen der Taliban zu bombardieren. Nach dem Teilrückzug der US-Armee im Jahr 2014 verschärfte sich die Lage der Bevölkerung noch weiter.
 
 {{</box>}}
-
-
 
 Als sie 2015 in die Schweiz gekommen ist, war das ein Schritt ins ungewisse. Dennoch ist sie keineswegs eingeschüchtert, ganz im Gegenteil, wir treffen auf eine Junge, Selbstbewusste Frau. Sie wohnt allein in einem Studio und arbeitet hart an ihrer Ausbildung zur Fachangestellten Gesundheit. "Es ist unglaublich schön, FaGe ist mein Traumberuf. Ich mache es sehr gerne, wirklich sehr gerne", sagt sie strahlend. In ihrer Freizeit spielt sie gerne Fußball beim FC Wyler. Wir sind beeindruckt von ihrer Liebe zu ihrem Beruf, das macht uns Hoffnung für unsere eigene Zukunft.
 
