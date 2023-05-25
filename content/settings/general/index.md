@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
-description = "A Journey of Life and Learning"
+title = "Marco Probst"
+description = "A Journey about School."
 footerLeft = "Powered by 💛 and [Lilo.Blog](https://www.lilo.blog)"
-footerRight = "[🏷️ Tags](/tags/) | [🗃️ Archive](/posts/) | [📣 Social](https://www.lilo.blog)"	
+footerRight = "[🏷️ Tags](/tags/) | [🗃️ Archive](/posts/) | [📣 Social](https://www.lilo.blog)"
 +++
