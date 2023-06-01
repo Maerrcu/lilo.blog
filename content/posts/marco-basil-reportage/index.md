@@ -3,6 +3,7 @@ title = "Die Geschichte einer unglaublichen Flucht"
 date = "2023-05-05"
 draft = false
 pinned = false
+image = "afghanistan-taliban-flucht-parteien-deutschland-hilfe.webp"
 +++
 <!--\\\\[if !mso]>
 <style>
