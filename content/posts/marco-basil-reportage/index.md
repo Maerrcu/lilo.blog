@@ -713,7 +713,7 @@ Afghanistan war lange Zeit das Land mit den meisten migrierenden Menschen der We
 
 Als sie 2015 in die Schweiz gekommen ist, war das ein Schritt ins Ungewisse. Dennoch ist sie keineswegs eingeschüchtert, ganz im Gegenteil, wir treffen auf eine junge, selbstbewusste Frau. Sie wohnt allein in einem Studio und arbeitet fleissig an ihrer Ausbildung zur Fachangestellten Gesundheit. "Es ist unglaublich schön, FaGe ist mein Traumberuf. Ich mache es sehr gerne, wirklich sehr gerne", sagt sie strahlend. In ihrer Freizeit spielt sie gerne Fußball beim FC Wyler. Wir sind beeindruckt von ihrer Liebe zu ihrem Beruf, das macht uns Hoffnung für unsere eigene Zukunft.
 
-> ***«Es war unglaublich schmerzhaft, aber nicht schmerzhafter als das, was ich in Afghanistan erlebt habe»***
+> ***Es war unglaublich schmerzhaft, aber nicht schmerzhafter als das, was ich in Afghanistan erlebt habe***
 
 Zurückblickend erinnert sie sich an die knappen Vorräte, die sie und ihre Familie auf diesem Weg mit sich trugen: Nur dreimal haben sie in diesen zehn Tagen etwas zu essen bekommen, meist nur Brot mit Joghurt. Die Strapazen der Reise haben ihr alles abverlangt: "Ich bin barfuß gelaufen, weil meine Schuhe kaputt waren", erzählt sie. Der steinige Boden der Berge war gnadenlos und hat ihre Füße blutig gerieben. Aber der Schmerz war für sie nichts im Vergleich zu dem, was sie in Afghanistan erlebt hatte. 
 
@@ -723,11 +723,11 @@ Die Situation eskalierte, als diese Männer sie sogar berührten. Morsal erinner
 
 Aber das war noch lange nicht das Ende ihrer Reise. In der folgenden Nacht wagten sie es, illegal mit einem Gummiboot von der Türkei nach Griechenland zu übersetzen. Stundenlang waren sie auf hoher See den unberechenbaren Wellen und Strömungen ausgesetzt. Doch endlich erreichten sie die Küste Griechenlands.
 
-> ***«Es war die schlimmste Zeit meines Lebens»***
+> ***Es war die schlimmste Zeit meines Lebens***
 
 Dankbar erinnert sie sich an ihren Onkel, der ihnen Geld aus Afghanistan geschickt hatte. Dieses Geld ermöglichte es ihnen, über Grenzen in die Schweiz zu reisen, wo sie schließlich einen sicheren Hafen fanden. Heute, Jahre später, ist sie froh, in der Schweiz eine neue Heimat gefunden zu haben, aber die Erinnerungen an ihre Flucht werden sie ihr ganzes Leben lang begleiten. "Es war die schlimmste Zeit meines Lebens", sagt sie. "Aber ich bin froh, dass wir es geschafft haben."
 
-> ***«Wenn sich die schwierige Situation verbessert, werde ich gehen»***
+> ***Wenn sich die schwierige Situation verbessert, werde ich gehen***
 
 Doch auch wenn sie sich in der Schweiz wohl fühlt, denkt sie oft an ihr früheres Leben in Afghanistan zurück. Als sie in Erinnerung an ihre Heimat schwelgt, leuchten ihre Augen förmlich.  "In Afghanistan haben meine Eltern die Verantwortung übernommen. Sie haben alles bezahlt. Sie haben für alles gesorgt, Essen, Kochen, Haushalt. Aber jetzt muss ich alles selbst machen", erzählt sie. In Afghanistan war sie in der 9. Klasse und hätte noch vier Jahre zur Schule gehen müssen, um Lehrerin zu werden. Doch das Leben dort war auch von Einschränkungen und Gefahren geprägt. Als Mädchen musste sie immer ein Kopftuch tragen und durfte ab 19 Uhr nicht mehr allein auf die Straße gehen. Dennoch hegt Morsal keinen Groll gegen ihre alte Heimat. "Afghanistan hat für mich Vor- und Nachteile, die Schweiz hat für mich Vor- und Nachteile", sagt sie. Sie hofft jedoch, dass sich die schwierige Situation in Afghanistan bald verbessert, besonders für Frauen und Mädchen. "Wenn es so bleibt mit den Taliban, dass Frauen nicht in die Schule gehen dürfen und alles machen müssen, was Männer sagen, werde ich nicht zurückkehren", erklärt sie.
 
