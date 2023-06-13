@@ -697,6 +697,10 @@ Eine Reportage von **Marco Probst und Basil Bernard**, Bern
 
 ![Morsal(22) ist seit 8 Jahren in der Schweiz.](morsal-bild-resized-1-.png)
 
+
+
+**Flucht**
+
 Die Flucht aus Afghanistan ist für viele Menschen eine Odyssee, eine lebensgefährliche Reise durch Länder und Grenzen, die oft Tage oder Wochen dauert. Auch für die junge Afghanin, Morsal, war es die einzige Möglichkeit, ihr Leben zu retten. Morsals Familie verlor auf der Flucht alles, was sie besaß, und musste sich schließlich allein und ohne Besitz in der Schweiz zurechtfinden. Als wir sie treffen, passt sie gerade auf ihren kleinen Bruder auf, sie entschuldigt sich vor dem Gespräch für das Geschrei im Hintergrund. Alleine mit ihr Sprechen können wir nicht, aufgrund ihrer Religion ist es ihr Wunsch, dass eine andere Frau anwesend ist.
 
 {{<box>}}
@@ -704,6 +708,8 @@ Die Flucht aus Afghanistan ist für viele Menschen eine Odyssee, eine lebensgef�
 Afghanistan war lange Zeit das Land mit den meisten migrierenden Menschen der Welt, bevor es 2014 von Syrien abgelöst wurde. Afghanische Migranten wurden oft in anderen Ländern ausgebeutet und als billige Arbeitskräfte eingesetzt. Konflikte und die Übernahme von Teilen des Landes durch die Taliban seit 1994 zwangen viele Menschen zur Flucht. Die US-Luftwaffe begann 2001, nachdem die Taliban die Auslieferung von Osama bin Laden verweigert hatten, Stellungen der Taliban zu bombardieren. Nach dem Teilrückzug der US-Armee im Jahr 2014 verschärfte sich die Lage der Bevölkerung noch weiter.
 
 {{</box>}}
+
+**Neuanfang**
 
 Als sie 2015 in die Schweiz gekommen ist, war das ein Schritt ins Ungewisse. Dennoch ist sie keineswegs eingeschüchtert, ganz im Gegenteil, wir treffen auf eine junge, selbstbewusste Frau. Sie wohnt allein in einem Studio und arbeitet fleissig an ihrer Ausbildung zur Fachangestellten Gesundheit. "Es ist unglaublich schön, FaGe ist mein Traumberuf. Ich mache es sehr gerne, wirklich sehr gerne", sagt sie strahlend. In ihrer Freizeit spielt sie gerne Fußball beim FC Wyler. Wir sind beeindruckt von ihrer Liebe zu ihrem Beruf, das macht uns Hoffnung für unsere eigene Zukunft.
 
