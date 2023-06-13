@@ -733,4 +733,6 @@ Doch auch wenn sie sich in der Schweiz wohl fühlt, denkt sie oft an ihr früher
 
 Trotz der schwierigen Vergangenheit und der ungewissen Zukunft behält Morsal ihren Optimismus und ihren Glauben an eine bessere Zukunft. "Ich habe viele Wünsche, aber am meisten wünsche ich mir, dass ich die Ausbildung als FaGe beenden und mich dann an der HF weiterbilden kann", sagt sie. "Ich bin glücklich, hier zu sein und etwas für die Gesellschaft zu tun".
 
+Morsals Geschichte erinnert uns daran, dass hinter den Flüchtlingen, die in unseren Ländern ankommen, Menschen mit individuellen Geschichten, Träumen und Hoffnungen stehen. Es ist wichtig, ihre Erfahrungen anzuerkennen und ihnen die Unterstützung und Möglichkeiten zu geben, die sie brauchen, um ein neues Leben aufzubauen.
+
 <!--EndFragment-->
