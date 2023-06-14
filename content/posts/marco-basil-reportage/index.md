@@ -5,22 +5,22 @@ draft = false
 pinned = false
 image = "afghanistan-taliban-flucht-parteien-deutschland-hilfe.webp"
 +++
-<!--\\\\\[if !mso]>
+<!--\\\\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -61,9 +61,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -642,9 +642,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 10]>
+<!--\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -673,7 +673,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -695,9 +695,7 @@ Jährlich fliehen über 3000 Menschen aus Afghanistan in die Schweiz, so viele w
 
 Eine Reportage von **Marco Probst und Basil Bernard**, Bern
 
-![Morsal(22) ist seit 8 Jahren in der Schweiz.](morsal-bild-resized-1-.png)
-
-
+![Morsal(22) ist seit 8 Jahren in der Schweiz.](morsal-compressed-1-.png)
 
 **Flucht**
 
